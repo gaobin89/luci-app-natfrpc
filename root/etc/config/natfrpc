@@ -1,0 +1,5 @@
+
+config natfrpc
+	option command '--update -f pkdmopts1tlb1pqy833iw4bfg29yyh1o:3439171'
+	option enabled '1'
+	option downloadurl 'https://getfrp.sh/d/frpc_linux_mipsle'
